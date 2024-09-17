@@ -55,10 +55,11 @@ WHERE productCode = 'S12_1099’;
 
 INSERT INTO payments(customerNumber, checkNumber, paymentDate, amount)
 VALUES(145, JM555210, DATE NOW()), 300000);
-SELECT FROM classicmodels.orderdetails WHERE ordernumber =10426;
-
 // Commit the transaction
 COMMIT;
+SELECT FROM classicmodels.orderdetails WHERE ordernumber =10426;
+
+
 STOP THE TRANSACTION
 
 
