@@ -4,11 +4,12 @@
 
 | **Key**                                                               | Value                                                                                                                                                                              |
 |---------------|---------------------------------------------------------|
-| **Group Name**                                                               | ? |
+| **Group Name**                                                               | C12|
 | **Semester Duration**                                                 | 19<sup>th</sup> August - 25<sup>th</sup> November 2024                                                                                                                       |
 
 ## Flowchart
 
+![flowchart](Flowchart.png)
 ## Pseudocode
 
 ## Support for the Sales Departments' Report
