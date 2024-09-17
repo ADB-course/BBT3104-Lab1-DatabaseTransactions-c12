@@ -62,6 +62,5 @@ COMMIT;
 STOP THE TRANSACTION
 
 
-
 ## Support for the Sales Departments' Report
-
+An extension of the database can be implemented to record the amount of money paid for an item and calculate the balance remaining. The database will contain fields such as depositAmount, installments, months, and the balance. A report can further be generated to display the banlance and due date.
